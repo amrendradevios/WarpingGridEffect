@@ -10,7 +10,7 @@ A SwiftUI demo app showcasing an animated interactive grid that warps based on u
 - Dynamically computed spacing based on screen size
 - Fully built in SwiftUI – no external dependencies
 
-## 🧠 Concepts Used
+## Concepts Used
 
 - `Canvas` drawing for custom visuals
 - `DragGesture` for touch tracking
