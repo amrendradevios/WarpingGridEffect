@@ -24,5 +24,3 @@ A SwiftUI demo app showcasing an animated interactive grid that warps based on u
 3. Run on simulator or device
 
 ## 📄 License
-
-MIT
